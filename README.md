@@ -1,6 +1,5 @@
 # shredbench
 
-[![selftest](https://github.com/nolimitnodes/shredbench/actions/workflows/selftest.yml/badge.svg)](https://github.com/nolimitnodes/shredbench/actions/workflows/selftest.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 Compare two or more raw Solana shred feeds on one host, honestly.
